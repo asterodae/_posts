@@ -1,7 +1,7 @@
 ---
 title: going back to the future(not the movie) - a life update (346 words)
 date: 2023-12-07 11:17:00
-tags:
+categories: life
 ---
 
 **hello.**

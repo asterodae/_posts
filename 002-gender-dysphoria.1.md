@@ -1,7 +1,7 @@
 ---
 title: gender dysphoria (part 1/???) (362 words)
 date: 2023-11-27 10:01:00
-tags:
+categories: trans
 ---
 
 ﻿**hello.**

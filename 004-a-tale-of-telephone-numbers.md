@@ -1,7 +1,7 @@
 ---
 title: numbers are funny -- a tale of changing your telephone number and customer service (761 words)
 date: 2023-11-28 07:50:00
-tags:
+categories: miscellaneous
 ---
 
 ﻿**hello.**

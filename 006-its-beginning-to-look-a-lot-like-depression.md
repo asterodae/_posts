@@ -1,7 +1,7 @@
 ---
 title: it's beginning to look a lot like depression (377 words)
 date: 2023-11-30 07:56:00
-tags:
+categoris: life
 ---
 
 **hello.**

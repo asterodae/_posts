@@ -1,7 +1,7 @@
 ---
 title: another funny wittle update :3 (208 words)
 date: 2023-12-28 12:06:55
-tags:
+categories: life
 ---
 
 **hello.**
