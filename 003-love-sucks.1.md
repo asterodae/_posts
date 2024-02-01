@@ -1,5 +1,5 @@
 ---
-title: love is beautiful... but its also destroying (644 words)
+title: love is beautiful... but its also destroying | 644 words
 date: 2023-11-27 17:20:00
 tags: life
 ---

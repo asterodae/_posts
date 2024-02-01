@@ -1,5 +1,5 @@
 ---
-title: how surroundings can change the way you feel about yourself - a berlin trip (2.12.2023) (754 words)
+title: how surroundings can change the way you feel about yourself - a berlin trip (2.12.2023) | 754 words
 date: 2023-12-05 10:18:00
 categories: life
 ---

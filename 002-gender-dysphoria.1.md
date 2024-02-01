@@ -1,5 +1,5 @@
 ---
-title: gender dysphoria (part 1/???) (362 words)
+title: gender dysphoria (part 1/???) | 362 words
 date: 2023-11-27 10:01:00
 categories: trans
 ---

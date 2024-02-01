@@ -1,5 +1,5 @@
 ---
-title: is this thing on? (114 words)
+title: is this thing on? | 114 words
 date: 2023-11-26 19:06:08
 categories: miscellaneous
 ---

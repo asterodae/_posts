@@ -1,5 +1,5 @@
 ---
-title: the class of '09, what a fucking visual novel (CW!!) (914 words)
+title: the class of '09, what a fucking visual novel (CW!!) | 914 words
 date: 2023-11-28 21:02:00
 categories: miscellaneous
 ---
