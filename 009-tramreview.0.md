@@ -18,7 +18,7 @@ i've recently thought about how i could implement transit into this already exis
 
 this idea i like to call TramReview.
 
-in this series, i will review every singular tram line in my city of leipzig, though only including lines that regularly run since event lines are very random when it comes to things like routing and vehicle use and because theyre generally just hard to come by.
+in this series, i will review every single tram line in my city of leipzig, though only including lines that regularly run since event lines are very random when it comes to things like routing and vehicle use and because theyre generally just hard to come by.
 
 after im done with my city, which will probably take a couple of months considering i want to buy a camera to take my OWN photos rather than just taking photos from somewhere else,
 i want to expand into different cities, which i havent really decided on.
